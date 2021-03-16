@@ -1,0 +1,30 @@
+{
+  "name": "butter-queue",
+  "version": "0.0.1",
+  "description": "a js queue library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z405924243/butter-queue.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "队列",
+    "消息",
+    "轮询",
+    "任务",
+    "黄油",
+    "browser",
+    "queue"
+  ],
+  "author": "lzzhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z405924243/butter-queue/issues"
+  },
+  "homepage": "https://github.com/z405924243/butter-queue#readme"
+}
