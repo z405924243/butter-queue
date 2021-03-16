@@ -1,2 +1,2 @@
-# cherry-queue
+# butter-queue
 a js queue library
